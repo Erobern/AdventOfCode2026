@@ -1,4 +1,4 @@
-package adventofcode2025.utils.enums;
+package adventofcode2026.utils.enums;
 
 public enum Direction {
     UP, DOWN, LEFT, RIGHT;

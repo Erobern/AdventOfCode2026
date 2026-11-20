@@ -1,4 +1,4 @@
-package adventofcode2025.utils.records;
+package adventofcode2026.utils.records;
 
 import java.util.Objects;
 

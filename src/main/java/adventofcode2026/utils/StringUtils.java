@@ -1,4 +1,4 @@
-package adventofcode2025.utils;
+package adventofcode2026.utils;
 
 public class StringUtils {
 

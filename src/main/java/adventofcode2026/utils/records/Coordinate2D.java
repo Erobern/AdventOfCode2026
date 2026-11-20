@@ -1,6 +1,6 @@
-package adventofcode2025.utils.records;
+package adventofcode2026.utils.records;
 
-import adventofcode2025.utils.enums.Direction;
+import adventofcode2026.utils.enums.Direction;
 
 import java.util.Objects;
 

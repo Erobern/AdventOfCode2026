@@ -1,4 +1,4 @@
-package adventofcode2025.fileloaders;
+package adventofcode2026.fileloaders;
 
 import java.io.File;
 import java.io.IOException;
